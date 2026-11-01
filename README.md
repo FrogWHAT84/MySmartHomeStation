@@ -15,3 +15,11 @@ There is also an GPIO expansion, so you can add more sensors for smart home, for
 Just assemble what you want in ESPhome in HomeAssistant
 
 ##  BOM
+| Part | Qty | Unit | Total |
+| :--- | :---: | :---: | :---: |
+| ESP32-C6-DEV-KIT-N8-M | 1 | $9.00 | **$9.00** |
+| e-Paper E-Ink 2.9" 296x128 - Waveshare 12956 | 1 | $15.00 | **$15.00** |
+| SHT30 | 1 | $2.50 | **$2.50** |
+| Photoresistor | 1 | $0.10 | **$0.10** |
+| Resistors | 5 | $0.10 | **$0.50** |
+| **Total** | | | **$27.10** |

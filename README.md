@@ -11,4 +11,7 @@ There is also an GPIO expansion, so you can add more sensors for smart home, for
 #Light meter based on photoresistor
 #GPIO Expansion pins
 
+##  Firmware
+Just assemble what you want in ESPhome in HomeAssistant
+
 ##  BOM
